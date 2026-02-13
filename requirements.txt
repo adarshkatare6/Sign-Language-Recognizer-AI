@@ -1,2 +1,6 @@
+gradio
 opencv-python
 mediapipe
+scikit-learn
+joblib
+numpy
